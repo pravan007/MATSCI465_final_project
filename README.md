@@ -9,5 +9,6 @@ This repository contains:
 - `PhaseBCalculations.ipynb`: Notebook for calculating phase gradients and magnetic induction from beam shift .npy files
 - Folder `dpc4dstem` containing necessary packages for running the above notebooks
 - `input` and `output` folders for the relevant data/results (note: the `.mrc` files are too large to include)
+- Partial list of papers consulted
 - In-class presentation slides
 - README and environment file
